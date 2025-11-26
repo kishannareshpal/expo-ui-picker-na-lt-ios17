@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kishannareshpal.expo-ui-picker-na-lt-ios17"
     },
     "android": {
       "adaptiveIcon": {
