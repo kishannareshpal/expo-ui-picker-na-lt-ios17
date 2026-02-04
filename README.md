@@ -1,3 +1,7 @@
+> [!NOTE]
+>
+> This has now been resolved. See https://github.com/expo/expo/issues/41247#issuecomment-3846460267
+
 ## `@expo/ui/swift-ui` `Picker` not available on iOS <17.0
 
 A minimum reproducible repo showcasing the Picker component not being supported on devices running iOS older than 17.
